@@ -1,8 +1,5 @@
 ### Hi there, Welcome to My Profile 👋
 
-<!--
-**T3ch-miNer/T3ch-miNer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🔭 I’m currently working on ...
