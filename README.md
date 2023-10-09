@@ -10,8 +10,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
 
 <p align="left"> A little about me...  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student🎓 [@ SRH Hochschule Heidelberg ](https://www.srh-hochschule-heidelberg.de/)** majoring in Applied Data Science and Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. </p>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </p>
+I'm a Grad Student🎓 <a href="https://www.srh-hochschule-heidelberg.de/">@SRH Hochschule Heidelberg</a> majoring in Applied Data Science and Analytics. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
 
 - 🔭 I’m currently working on [NoteAssist](https://github.com/T3ch-miNer/Note_Assist)
 
