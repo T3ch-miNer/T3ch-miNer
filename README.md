@@ -5,7 +5,7 @@
 
 <h1>Howdy!, I am <a href="https://github.com/T3ch-miNer">Rahul Pushpala</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
-<h3 align="center">Hi there, Welcome to My Profile</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
 
