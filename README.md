@@ -2,7 +2,9 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Rahul Pushpala</h1>
+
+<h1>Howdy!, I am <a href="https://github.com/T3ch-miNer">Rahul Pushpala</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+</h1>
 <h3 align="center">Hi there, Welcome to My Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
