@@ -9,10 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldbz95" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldbz95?logo=twitter&style=for-the-badge" alt="rahuldbz95" /></a> </p>
-### A little about me...  
+<p align="left"> A little about me...  
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student🎓 [@ SRH Hochschule Heidelberg ](https://www.srh-hochschule-heidelberg.de/)** majoring in Applied Data Science and Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm a **Grad Student🎓 [@ SRH Hochschule Heidelberg ](https://www.srh-hochschule-heidelberg.de/)** majoring in Applied Data Science and Analytics. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. </p>
 
 - 🔭 I’m currently working on [NoteAssist](https://github.com/T3ch-miNer/Note_Assist)
 
