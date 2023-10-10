@@ -9,8 +9,8 @@
 
 
 <p align="left"> A little about me...  
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </p>
-I'm a Grad Student🎓 <a href="https://www.srh-hochschule-heidelberg.de/">@SRH Hochschule Heidelberg</a> majoring in Applied Data Science and Analytics. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a Grad Student🎓 <a href="https://www.srh-hochschule-heidelberg.de/">@SRH Hochschule Heidelberg</a> majoring in Applied Data Science and Analytics. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. </p>
 
 - 🔭 I’m currently working on [NoteAssist](https://github.com/T3ch-miNer/Note_Assist)
 
