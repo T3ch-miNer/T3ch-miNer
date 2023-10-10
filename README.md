@@ -3,9 +3,8 @@
 </div>
 
 
-<h1>Howdy!, I am <a href="https://github.com/T3ch-miNer">Rahul Pushpala</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Enthusiast;Data+Engineer;Data+Analyst;Machine+Learning+Engineer)](https://git.io/typing-svg)
+<h1>Howdy!, I am  <img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%23a9b665&size=22&center=false&vCenter=true&lines=Rahul+Pushpala;Data+Enthusiast;Data+Engineer;Data+Analyst;Machine+Learning+Engineer" alt="Rahul Pushpala,Data Enthusiast,Data Engineer, Data Analyst, Machine Learning Engineer"></h1>
+<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
 
