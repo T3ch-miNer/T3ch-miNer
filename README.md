@@ -5,7 +5,7 @@
 
 <h1>Howdy!, I am <a href="https://github.com/T3ch-miNer">Rahul Pushpala</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Enthusiast;Data+Engineer;Data+Analyst;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t3ch-miner&label=Profile%20views&color=0e75b6&style=flat" alt="t3ch-miner" /> </p>
 
@@ -26,8 +26,8 @@ I'm a Grad Student🎓 <a href="https://www.srh-hochschule-heidelberg.de/">@SRH 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahuldbz95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldbz95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulpushpala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulpushpala/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@blackfly420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@blackfly420" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulpushpala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulpushpala/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@blackfly420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@blackfly420" height="30" width="40" /></a>
 </p>
 <h3 align="left">🖥️ My DevSetup </h3>
 <p align="left">
