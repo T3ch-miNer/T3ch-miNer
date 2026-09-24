@@ -8,7 +8,7 @@
 
 <p align="left"> A little about me...  
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a Data Analyst / Analytics Engineer with 4+ years of experience building data pipelines, BI solutions, and analytics applications using Python, SQL, PySpark, Microsoft Fabric, Azure Databricks, and Power BI 📊. Currently working with <a href="https://ats-leibbrand.de/en/">Agile Tech Solutions Leibbrand</a> on international development analytics projects across Haiti, Mozambique, and Sudan. I hold an M.Sc. in Big Data & Business Analytics from Hochschule Heidelberg 🎓, and I'm passionate about turning messy data into scalable, actionable insights. </p>
+I'm a Data Analyst / Analytics Engineer with 4+ years of experience building data pipelines, BI solutions, and analytics applications using Python, SQL, PySpark, Microsoft Fabric, Azure Databricks, and Power BI 📊. Currently working with <a href="https://ats-leibbrand.de/en/">Agile Tech Solutions Leibbrand</a> on international development analytics projects across Germany, the Netherlands, Haiti, Mozambique, and Sudan. I hold an M.Sc. in Big Data & Business Analytics from Hochschule Heidelberg 🎓, and I'm passionate about turning messy data into scalable, actionable insights. </p>
 
 - 🔭 I'm currently working on data pipelines, automation, and Power BI dashboards for international development programmes
 
